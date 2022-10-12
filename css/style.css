@@ -1,0 +1,48 @@
+@font-face {
+    font-family: futurabook;
+    src: url(../fonts/futura_book_font-webfont.woff) format(woff),
+    url(../fonts/futura_book_font-webfont.woff2) format(woff2);
+
+}
+    
+
+
+
+@font-face {
+    font-family: "futuralight";
+    src: url("../fonts/futura-light-webfont.woff");
+    
+}
+
+@font-face {
+    font-family: "futuramedium";
+    src: url(../fonts/futura_medium_bt-webfont.woff) format(woff),
+    url(../fonts/futura_medium_bt-webfont.woff2) format(woff2);
+}
+
+@font-face {
+    font-family: "nimbus";
+    src: url(../fonts/nimbusromno9l-regita-webfont.woff);
+}
+
+@font-face {
+        font-family: "sofia";
+    src: url(../fonts/sofia_pro_regular-webfont.woff);
+}
+
+
+
+
+body em{
+    font-family: nimbus;
+}
+
+.policebutton{
+    font-family: "futuralight" ;
+    font-size:0.7em;
+    letter-spacing : 0.2em;
+
+}
+
+
+
